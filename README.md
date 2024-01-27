@@ -23,8 +23,6 @@ I love the entire process of developing creative websites. I love the challenge 
 <div align="center">
 <h3>Connect with me on:</h3>
 <a href=https://www.linkedin.com/in/tharindu-lakshan-48b068226/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"></a>
-<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="70">
-
 </div>
 
 <br>
@@ -47,8 +45,8 @@ I love the entire process of developing creative websites. I love the challenge 
 <h2 align="center">📈 GitHub Stats</h2> 
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sachintha-Samarathunga&show_icons=true&locale=en&layout=compact&theme=tokyonight" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sachintha-Samarathunga&count_private=true&show_icons=true&theme=tokyonight" align = "center"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sachintha-Samarathunga&show_icons=true&locale=en&layout=compact&theme=tokyonight" align = "center"/> -->
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sachintha-Samarathunga&count_private=true&show_icons=true&theme=tokyonight" align = "center"/> -->
 </p>
 
 <br>
