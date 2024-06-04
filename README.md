@@ -10,8 +10,8 @@ Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">
 <i class="fab fa-pinterest"></i>
 
 <p align="center">
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Sachintha-Samarathunga?color=236ad3&style=for-the-badge&logo=github&label=Followers"/>
-</p>
+<!--<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Sachintha-Samarathunga?color=236ad3&style=for-the-badge&logo=github&label=Followers"/>
+</p>-->
 
 <div align="center">
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
@@ -29,7 +29,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 <div align="center">
 <h3>Languages & Tools:</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,github,mongodb,mysql,nodejs,nextjs,php,py,react,tailwind,threejs,vite" alt="mongoDB" title="mongoDB"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,github,mongodb,mysql,nodejs,nextjs,react" alt="mongoDB" title="mongoDB"/>
 </div>
 
 <br>
